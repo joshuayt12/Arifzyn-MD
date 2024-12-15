@@ -10,13 +10,13 @@ const chalk = require("chalk");
 global.lol = ""; // https://api.lolhuman.xyz
 global.xzn = ""; // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = "62895347198105"; // Owner Utama
-global.owner = ["62895347198105"]; // Owner Lainnya
+global.numberowner = "6285183143508"; // Owner Utama
+global.owner = ["6285964193426"]; // Owner Lainnya
 global.namaowner = "Arifzyn."; // Nama Owner
 global.premium = ["62895347198105"]; // Premium User
-global.nobot = "62895347198105";
+global.nobot = "6285183143508";
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
-global.namabot = "Arifzyn-MD"; // NickBot
+global.namabot = "joshuamd"; // NickBot
 global.typemenu = "v2"; // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = "v1"; // 'v1' > 'v2'
 global.autoread = false; // ReadChat
